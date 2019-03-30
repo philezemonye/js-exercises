@@ -10,11 +10,14 @@ var dog = {
 // WRITE CODE BELOW THIS LINE
 
 // WRITE CODE ABOVE THIS LINE
+//option1
 dog = {
   name: "Rex",
   wantsToPlay: true
 };
-
+//option2
+dog.name = "Rex";
+dog.wantsToPlay = true;
 //DO NOT MODIFY BELOW
 console.log(dog.name);
 console.log(dog.wantsToPlay);
