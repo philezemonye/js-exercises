@@ -5,7 +5,10 @@
 // WRITE CODE BELOW THIS
 
 // WRITE CODE ABOVE THIS
-
+var kitten = {
+  name: "Gilbert",
+  colour: "black"
+};
 console.log(kitten.name);
 
 // -> it should output: "Gilbert"
